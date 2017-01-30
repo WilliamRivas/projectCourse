@@ -1,11 +1,11 @@
-## Code Book
+# Code Book
 
 
 This code book describes the data used in this project.
 The base data is decribed at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 Detailed information of data set are provided by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto.
 
-#Project
+##Project
 We intend to practice how to get and clean data for analisys in R.
 
 ### DATA INPUT
