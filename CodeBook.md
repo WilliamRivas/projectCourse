@@ -15,10 +15,10 @@ That is, 2947 rows for test and 7352 rows for train.
 The observations came from 30 subjects which did five activities: Walking, Walking Upstairs, Walking Downstair, Sitting
 and Standing.
 Files used:
-#features
-#activity_labels	
-#X_train, y_train , subject_train
-#y_test, X_test, subject_test
+* features
+* activity_labels	
+* X_train, y_train , subject_train
+* y_test, X_test, subject_test
 
 ### OUTPUT
 
