@@ -87,5 +87,5 @@ getTidyData <- function() {
 
 # Finally we write a file with tidy data in the working directory
   message("creating tidy_data .txt file")
-  write.table(tidy, file = "./tidy_data.txt")
+  write.table(tidy, file = "./tidy_data.txt", row.names=FALSE)
 }
